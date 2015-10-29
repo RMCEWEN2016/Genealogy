@@ -11,7 +11,7 @@ starts down the tree as far as known and works down to the spouse. If there is a
 off tree the tree will NOT go past the spouses name, as you can refer to the number it
 is under to find the lineage past them.
 
-
+---------------------------------------------------------------------------
 
 1	Johann G Dalm (?-?) & Anna Barbara (?-?)
 2		Christopher Knapp (1835-1906) & Magdalena Walker Knapp (1835-1917)
@@ -31,8 +31,6 @@ is under to find the lineage past them.
 16						Linda M Longmore (1965-Living)
 17						Sharon Longmore McEwen (January 8, 1962-Living) & Robert Allen McEwen (April 25, 1957-Living)
 18							Robert Hunter McEwen (August 22, 1997-Living)
-
--------------------------------------------------------------------------------------------
 
 	3		Martin Sauer (?-?) & Katrina Dalm Sauer (1841-?)
 		1			Christine Sauer Knapp Armstrong (1876-1947)
